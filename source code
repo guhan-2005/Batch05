@@ -29,4 +29,3 @@ print(df.info())
 
 print("\nMissing values:")
 print(df.isnull().sum())
-
